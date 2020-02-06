@@ -3,10 +3,18 @@
 
 <table>
   <tr>
-    <td><b>#</b></td> 
-    <td><b>Title</b></td> 
-    <td><b>Solution</b></td> 
-    <td><b>Difficulty</b></td> 
+    <td align='center' valign="middle">
+      <b>#</b>
+    </td> 
+    <td align='center' valign="middle">
+      <b>Title</b>
+    </td> 
+    <td align='center' valign="middle">
+      <b>Solution</b>
+    </td> 
+    <td align='center' valign="middle">
+      <b>Difficulty</b>
+    </td> 
   </tr>
   <tr>
     <td>0001</td>
