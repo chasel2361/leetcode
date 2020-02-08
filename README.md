@@ -16,6 +16,9 @@
     <td align='center' valign="middle">
       <b>Difficulty</b>
     </td> 
+    <td align='center' valign="middle">
+      <b>Note Link</b>
+    </td> 
   </tr>
   
   <tr>
@@ -23,6 +26,7 @@
     <td>Two Sum</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/TwoSum/TwoSum.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0001.-Two-Sum">Link</a></td>
   </tr>
   
   <tr>
@@ -30,6 +34,7 @@
     <td>Longest Common Prefix</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/LongestCommonPrefix/LongestCommonPrefix.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0014.-Longest-Common-Prefix">Link</a></td>
   </tr>
   
   <tr>
@@ -37,6 +42,7 @@
     <td>3Sum</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/3Sum/3Sum.py">Sol</a></td>
     <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0015.-3Sum">Link</a></td>
   </tr>
   
   <tr>
@@ -46,6 +52,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MergeTwoSortedLists/MergeTwoSortedLists_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MergeTwoSortedLists/MergeTwoSortedLists_rec.py">Sol_recur</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -53,6 +60,7 @@
     <td>Remove Duplicates from Sorted Array</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -60,6 +68,7 @@
     <td>Search Insert Position</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SearchInsertPosition/SearchInsertPosition.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -69,6 +78,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MaximumSubarray/MaximumSubarray_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MaximumSubarray/MaximumSubarray_2.py">Sol_2</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -78,6 +88,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniquePaths/UniquePaths_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniquePaths/UniquePaths_2.py">Sol_2</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -85,6 +96,7 @@
     <td>Unique Paths II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniquePaths_II/UniquePaths_II.py">Sol</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -94,6 +106,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/AddBinary/AddBinary.py">Sol</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/AddBinary/AddBinary_rec.py">Sol_rec</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
   
   <tr>
@@ -101,6 +114,7 @@
     <td>Climbing Stairs</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ClimbingStairs/ClimbingStairs.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -108,6 +122,7 @@
     <td>Remove Duplicates from Sorted List</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -117,6 +132,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/GrayCode/GrayCode_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/GrayCode/GrayCode_2.py">Sol_2</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -124,6 +140,7 @@
     <td>Reverse Linked List II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ReverseLinkedList_II/ReverseLinkedList_II.py">Sol</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -134,6 +151,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_rec.py">Sol_rec</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_rec2.py">Sol_rec2</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -141,6 +159,7 @@
     <td>Unique Binary Search Trees</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniqueBinarySearchTree/UniqueBinarySearchTree.py">Sol</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -150,6 +169,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree_rec.py">Sol_rec</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -157,6 +177,7 @@
     <td>Same Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SameTree/SameTree.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -166,6 +187,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SymmetricTree/SymmetricTree_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SymmetricTree/SymmetricTree_rec.py">Sol_rec</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -173,6 +195,7 @@
     <td>Convert Sorted Array to Binary Search Tree </td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ConvertSortedArraytoBinarySearchTree/ConvertSortedArraytoBinarySearchTree.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -180,6 +203,7 @@
     <td>Convert Sorted List to Binary Search Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ConvertSortedListtoBinarySearchTree/ConvertSortedListtoBinarySearchTree.py">Sol</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -187,6 +211,7 @@
     <td>Balanced Binary Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BalancedBinaryTree/BalancedBinaryTree.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -194,6 +219,7 @@
     <td>Minimum Depth of Binary Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -201,6 +227,7 @@
     <td>Best Time to Buy and Sell Stock</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -208,6 +235,7 @@
     <td>Binary Tree Maximum Path Sum</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.py">Sol</a></td>
     <td>Hard</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -215,6 +243,7 @@
     <td>Single Number</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SingleNumber/SingleNumber.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -222,6 +251,7 @@
     <td>Linked List Cycle</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/LinkedListCycle/LinkedListCycle.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -231,6 +261,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal_rec.py">Sol_rec</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -240,6 +271,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.py">Sol</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal_iter.py">Sol_iter</a></td>
     <td>Hard</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -249,6 +281,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortList/SortList_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortList/SortList_2.py">Sol_2</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -259,6 +292,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement/MajorityElement_2.py">Sol_2</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement/MajorityElement_3.py">Sol_3</a></td>    
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -268,6 +302,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RotateArray/RotateArray_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RotateArray/RotateArray_2.py">Sol_2</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -275,6 +310,7 @@
     <td>House Robber</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/HouseRobber/HouseRobber.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -282,6 +318,7 @@
     <td>House Robber II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/HouseRobber_II/HouseRobber_II.py">Sol</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -291,6 +328,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement_II/MajorityElement_II_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement_II/MajorityElement_II_2.py">Sol_2</a></td>
     <td>Medium</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -300,6 +338,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MoveZeroes/MoveZeroes_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MoveZeroes/MoveZeroes_2.py">Sol_2</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -309,6 +348,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SearchinaBinarySearchTree/SearchinaBinarySearchTree_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SearchinaBinarySearchTree/SearchinaBinarySearchTree_rec.py">Sol_rec</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -316,9 +356,9 @@
     <td>Sort Array By Parity</td>
     <td>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortArrayByParity/SortArrayByParity_1.py">Sol_1</a><br>
-      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortArrayByParity/SortArrayByParity_2.py">Sol_2</a>
-    </td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortArrayByParity/SortArrayByParity_2.py">Sol_2</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
   <tr>
@@ -326,6 +366,7 @@
     <td>Squares of a Sorted Array </td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SquaresofaSortedArray/SquaresofaSortedArray.py">Sol</a></td>
     <td>Easy</td> 
+    <td><a href="">Link(待補)</a></td>      <!--待補--!>
   </tr>
 
 </table>
