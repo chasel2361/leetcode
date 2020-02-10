@@ -68,7 +68,7 @@
     <td>Search Insert Position</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SearchInsertPosition/SearchInsertPosition.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0035.-Search-Insert-Position">Link</a></td>
   </tr>
   
   <tr>
@@ -78,7 +78,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MaximumSubarray/MaximumSubarray_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MaximumSubarray/MaximumSubarray_2.py">Sol_2</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0053.-Maximum-Subarray">Link</a></td>
   </tr>
   
   <tr>
@@ -88,7 +88,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniquePaths/UniquePaths_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniquePaths/UniquePaths_2.py">Sol_2</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0062.-Unique-Paths">Link</a></td>
   </tr>
   
   <tr>
@@ -96,7 +96,7 @@
     <td>Unique Paths II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniquePaths_II/UniquePaths_II.py">Sol</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0063.-Unique-Paths-II">Link</a></td>
   </tr>
   
   <tr>
@@ -114,7 +114,7 @@
     <td>Climbing Stairs</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ClimbingStairs/ClimbingStairs.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0070.-Climbing-Stairs">Link</a></td>
   </tr>
 
   <tr>
@@ -159,7 +159,7 @@
     <td>Unique Binary Search Trees</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/UniqueBinarySearchTree/UniqueBinarySearchTree.py">Sol</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0096.-Unique-Binary-Search-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -227,7 +227,7 @@
     <td>Best Time to Buy and Sell Stock</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0121.-Best-Time-to-Buy-and-Sell-Stock">Link</a></td>
   </tr>
 
   <tr>
@@ -310,7 +310,7 @@
     <td>House Robber</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/HouseRobber/HouseRobber.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0198.-House-Robber">Link</a></td>
   </tr>
 
   <tr>
@@ -318,7 +318,7 @@
     <td>House Robber II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/HouseRobber_II/HouseRobber_II.py">Sol</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0213.-House-Robber-II">Link</a></td>
   </tr>
 
   <tr>
