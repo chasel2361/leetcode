@@ -106,7 +106,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/AddBinary/AddBinary.py">Sol</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/AddBinary/AddBinary_rec.py">Sol_rec</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0067.-Add-Binary">Link</a></td>
   </tr>
   
   <tr>
@@ -132,7 +132,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/GrayCode/GrayCode_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/GrayCode/GrayCode_2.py">Sol_2</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0089.-Gray-Code">Link</a></td>
   </tr>
 
   <tr>
@@ -151,7 +151,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_rec.py">Sol_rec</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal_rec2.py">Sol_rec2</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0094.-Binary-Tree-Inorder-Traversal">Link</a></td>
   </tr>
 
   <tr>
@@ -177,7 +177,7 @@
     <td>Same Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SameTree/SameTree.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0100.-Same-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -187,8 +187,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SymmetricTree/SymmetricTree_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SymmetricTree/SymmetricTree_rec.py">Sol_rec</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
-  </tr>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0101.-Symmetric-Tree">Link</a></td>  </tr>
 
   <tr>
     <td>0108</td>
@@ -211,7 +210,7 @@
     <td>Balanced Binary Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BalancedBinaryTree/BalancedBinaryTree.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0110.-Balanced-Binary-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -219,7 +218,7 @@
     <td>Minimum Depth of Binary Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0111.-Minimum-Depth-of-Binary-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -235,7 +234,7 @@
     <td>Binary Tree Maximum Path Sum</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.py">Sol</a></td>
     <td>Hard</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0124.-Binary-Tree-Maximum-Path-Sum">Link</a></td>
   </tr>
 
   <tr>
@@ -243,7 +242,7 @@
     <td>Single Number</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SingleNumber/SingleNumber.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0136.-Single-Number">Link</a></td>
   </tr>
 
   <tr>
@@ -261,7 +260,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal_rec.py">Sol_rec</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0144.-Binary-Tree-Preorder-Traversal">Link</a></td>
   </tr>
 
   <tr>
@@ -271,7 +270,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.py">Sol</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal_iter.py">Sol_iter</a></td>
     <td>Hard</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0145.-Binary-Tree-Postorder-Traversal">Link</a></td>
   </tr>
 
   <tr>
