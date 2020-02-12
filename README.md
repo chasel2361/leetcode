@@ -52,7 +52,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MergeTwoSortedLists/MergeTwoSortedLists_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MergeTwoSortedLists/MergeTwoSortedLists_rec.py">Sol_recur</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0021.-Merge-Two-Sorted-Lists">Link</a></td>
   </tr>
   
   <tr>
@@ -60,7 +60,7 @@
     <td>Remove Duplicates from Sorted Array</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0026.-Remove-Duplicates-from-Sorted-Array">Link</a></td>
   </tr>
   
   <tr>
@@ -122,7 +122,7 @@
     <td>Remove Duplicates from Sorted List</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0083.-Remove-Duplicates-from-Sorted-List">Link</a></td>
   </tr>
 
   <tr>
@@ -140,7 +140,7 @@
     <td>Reverse Linked List II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ReverseLinkedList_II/ReverseLinkedList_II.py">Sol</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0092.-Reverse-Linked-List-II">Link</a></td>
   </tr>
 
   <tr>
@@ -169,7 +169,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree_rec.py">Sol_rec</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0098.-Validate-Binary-Search-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -194,7 +194,7 @@
     <td>Convert Sorted Array to Binary Search Tree </td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ConvertSortedArraytoBinarySearchTree/ConvertSortedArraytoBinarySearchTree.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0108.-Convert-Sorted-Array-to-Binary-Search-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -202,7 +202,7 @@
     <td>Convert Sorted List to Binary Search Tree</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ConvertSortedListtoBinarySearchTree/ConvertSortedListtoBinarySearchTree.py">Sol</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0109.-Convert-Sorted-List-to-Binary-Search-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -250,7 +250,7 @@
     <td>Linked List Cycle</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/LinkedListCycle/LinkedListCycle.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0141.-Linked-List-Cycle">Link</a></td>
   </tr>
 
   <tr>
@@ -280,7 +280,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortList/SortList_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortList/SortList_2.py">Sol_2</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0148.-Sort-List">Link</a></td>
   </tr>
 
   <tr>
@@ -291,7 +291,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement/MajorityElement_2.py">Sol_2</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement/MajorityElement_3.py">Sol_3</a></td>    
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0169.-Majority-Element">Link</a></td>
   </tr>
 
   <tr>
@@ -301,7 +301,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RotateArray/RotateArray_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/RotateArray/RotateArray_2.py">Sol_2</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0189.-Rotate-Array">Link</a></td>
   </tr>
 
   <tr>
@@ -327,7 +327,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement_II/MajorityElement_II_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MajorityElement_II/MajorityElement_II_2.py">Sol_2</a></td>
     <td>Medium</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0229.-Majority-Element-II">Link</a></td>
   </tr>
 
   <tr>
@@ -337,7 +337,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MoveZeroes/MoveZeroes_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MoveZeroes/MoveZeroes_2.py">Sol_2</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0283.-Move-Zeros">Link</a></td>
   </tr>
 
   <tr>
@@ -347,7 +347,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SearchinaBinarySearchTree/SearchinaBinarySearchTree_iter.py">Sol_iter</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SearchinaBinarySearchTree/SearchinaBinarySearchTree_rec.py">Sol_rec</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0700.-Search-in-a-Binary-Search-Tree">Link</a></td>
   </tr>
 
   <tr>
@@ -357,7 +357,7 @@
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortArrayByParity/SortArrayByParity_1.py">Sol_1</a><br>
       <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SortArrayByParity/SortArrayByParity_2.py">Sol_2</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0905.-Sort-Array-By-Parity">Link</a></td>
   </tr>
 
   <tr>
@@ -365,7 +365,7 @@
     <td>Squares of a Sorted Array </td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/SquaresofaSortedArray/SquaresofaSortedArray.py">Sol</a></td>
     <td>Easy</td> 
-    <td><a href="">Link(待補)</a></td>      <!--待補--!>
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0977.-Squares-of-a-Sorted-Array">Link</a></td>
   </tr>
 
 </table>
