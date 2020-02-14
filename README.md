@@ -124,6 +124,14 @@
     <td>Easy</td> 
     <td><a href="https://github.com/chasel2361/leetcode/wiki/0083.-Remove-Duplicates-from-Sorted-List">Link</a></td>
   </tr>
+  
+  <tr>
+    <td>0088</td>
+    <td>Merge Sorted Array</td>
+    <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MergeSortedArray/MergeSortedArray.py">Sol</a></td>
+    <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0088.-Merge-Sorted-Array">Link</a></td>
+  </tr>
 
   <tr>
     <td>0089</td>
