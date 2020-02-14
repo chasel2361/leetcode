@@ -375,5 +375,13 @@
     <td>Easy</td> 
     <td><a href="https://github.com/chasel2361/leetcode/wiki/0977.-Squares-of-a-Sorted-Array">Link</a></td>
   </tr>
+  
+  <tr>
+    <td>0986</td>
+    <td>Interval List Intersections</td>
+    <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/IntervalListIntersections/IntervalListIntersections.py">Sol</a></td>
+    <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0986.-Interval-List-Intersections">Link</a></td>
+  </tr>
 
 </table>
