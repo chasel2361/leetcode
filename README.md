@@ -383,5 +383,16 @@
     <td>Medium</td> 
     <td><a href="https://github.com/chasel2361/leetcode/wiki/0986.-Interval-List-Intersections">Link</a></td>
   </tr>
+  
+  <tr>
+    <td>1160</td>
+    <td>Find Words That Can Be Formed by Characters</td>
+    <td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/FindWordsThatCanBeFormedbyCharacters/FindWordsThatCanBeFormedbyCharacters_1.py">Sol_1</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/FindWordsThatCanBeFormedbyCharacters/FindWordsThatCanBeFormedbyCharacters_2.py">Sol_2</a>
+    </td>
+    <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/1160.-Find-Words-That-Can-Be-Formed-by-Characters">Link</a></td>
+  </tr>
 
 </table>
