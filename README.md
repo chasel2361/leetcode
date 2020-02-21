@@ -358,6 +358,16 @@
   </tr>
 
   <tr>
+    <td>0257</td>
+    <td>Binary Tree Paths</td>
+    <td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePaths/BinaryTreePaths_1.py">Sol_1</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreePaths/BinaryTreePaths_2.py">Sol_2</a></td>
+    <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0257.-Binary-Tree-Paths">Link</a></td>
+  </tr>
+  
+  <tr>
     <td>0283</td>
     <td>Move Zeroes</td>
     <td>
