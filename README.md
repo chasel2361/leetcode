@@ -345,6 +345,17 @@
     <td>Medium</td> 
     <td><a href="https://github.com/chasel2361/leetcode/wiki/0238.-Product-of-Array-Except-Self">Link</a></td>
   </tr>
+  
+  <tr>
+    <td>0242</td>
+    <td>Valid Anagram</td>
+    <td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidAnagram/ValidAnagram_1.py">Sol_1</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidAnagram/ValidAnagram_2.py">Sol_2</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ValidAnagram/ValidAnagram_3.py">Sol_3</a></td>
+    <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0242.-Valid-Anagram">Link</a></td>
+  </tr>
 
   <tr>
     <td>0283</td>
