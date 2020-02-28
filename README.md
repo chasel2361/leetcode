@@ -424,4 +424,12 @@
     <td><a href="https://github.com/chasel2361/leetcode/wiki/1160.-Find-Words-That-Can-Be-Formed-by-Characters">Link</a></td>
   </tr>
 
+  <tr>
+    <td>1161</td>
+    <td>Maximum Level Sum of a Binary Tree</td>
+    <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/MaximumLevelSumofaBinaryTree/MaximumLevelSumofaBinaryTree.py">Sol</a></td>
+    <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/1161.-Maximum-Level-Sum-of-a-Binary-Tree">Link</a></td>
+  </tr>
+  
 </table>
