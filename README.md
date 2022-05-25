@@ -292,6 +292,16 @@
   </tr>
 
   <tr>
+    <td>0160</td>
+    <td>Intersection of Two Linked Lists</td>
+    <td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.py">Sol.py</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.cpp">Sol.cpp</a></td>
+    <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0160.-Intersection-of-Two-Linked-Lists">Link</a></td>
+  </tr>
+
+  <tr>
     <td>0169</td>
     <td>Majority Element</td>
     <td>
@@ -318,6 +328,14 @@
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/HouseRobber/HouseRobber.py">Sol</a></td>
     <td>Easy</td> 
     <td><a href="https://github.com/chasel2361/leetcode/wiki/0198.-House-Robber">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>0200</td>
+    <td>NumberofIslands</td>
+    <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/NumberofIslands/NumberofIslands.py">Sol</a></td>
+    <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0200.-Number-of-Islands">Link</a></td>
   </tr>
 
   <tr>
