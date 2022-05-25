@@ -1,0 +1,16 @@
+class Solution:
+    def maxLevelSum(self, root: Optional[TreeNode]) -> int:
+        def DFS(node: TreeNode, List: list, level: int) -> None:
+            if not node:
+                return
+            if len(List) == level: # 下一層的第一個(最左邊)，在List裡新增
+                List.append(node.val)
+            else:
+                List[level] += node.val # 下一層的後續就直接疊加
+
+            DFS(node.left, List, level + 1)
+            DFS(node.right, List, level + 1)
+        
+        List = []
+        DFS(root, List, 0)
+        return 1 + List.index(max(List))
