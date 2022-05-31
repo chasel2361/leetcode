@@ -331,6 +331,15 @@
   </tr>
 
   <tr>
+    <td>0199</td>
+    <td>Maximum Level Sum of a Binary Tree</td>
+    <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeRightSideView/BinaryTreeRightSideView_BFS.py">Sol_BFS</a></br>
+    <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/BinaryTreeRightSideView/BinaryTreeRightSideView_BFS2.py">Sol_BFS2</a></td>
+    <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0199.-Binary-Tree-Right-Side-View">Link</a></td>
+  </tr>
+
+  <tr>
     <td>0200</td>
     <td>NumberofIslands</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/NumberofIslands/NumberofIslands.py">Sol</a></td>
