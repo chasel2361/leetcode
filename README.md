@@ -348,6 +348,17 @@
   </tr>
 
   <tr>
+    <td>0204</td>
+    <td>CountPrimes</td>
+    <td>
+    <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/CountPrimes/CountPrimes.py">Sol</a><br>
+    <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/CountPrimes/CountPrimes2.py">Sol2</a><br>
+    <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/CountPrimes/CountPrimes.cpp">Sol_cpp</a></td>
+    <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0204.-Count-Primes">Link</a></td>
+  </tr>
+
+  <tr>
     <td>0214</td>
     <td>House Robber II</td>
     <td><a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/HouseRobber_II/HouseRobber_II.py">Sol</a></td>
