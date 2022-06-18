@@ -378,6 +378,18 @@
   </tr>
 
   <tr>
+    <td>0226</td>
+    <td>Invert Binary Tree</td>
+    <td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/InvertBinaryTree/InvertBinaryTree_rec.py">Sol_rec_py</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/InvertBinaryTree/InvertBinaryTree_iter.py">Sol_iter_py</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/InvertBinaryTree/InvertBinaryTree_rec.cpp">Sol_rec_cpp</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/InvertBinaryTree/InvertBinaryTree_iter.cpp">Sol_iter_cpp</a></td>
+    <td>Easy</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0226.-Invert-Binary-Tree">Link</a></td>
+  </tr>
+
+  <tr>
     <td>0229</td>
     <td>Majority Element II</td>
     <td>
