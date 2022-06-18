@@ -367,6 +367,17 @@
   </tr>
 
   <tr>
+    <td>0217</td>
+    <td>Contains Duplicate</td>
+    <td>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ContainsDuplicate/ContainsDuplicate.py">Sol_1</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ContainsDuplicate/ContainsDuplicate2.py">Sol_2</a><br>
+      <a href="https://github.com/chasel2361/leetcode/blob/master/Algorithms/ContainsDuplicate/ContainsDuplicate.cpp">Sol_cpp</a></td>
+    <td>Medium</td> 
+    <td><a href="https://github.com/chasel2361/leetcode/wiki/0217.-Contains-Duplicate">Link</a></td>
+  </tr>
+
+  <tr>
     <td>0229</td>
     <td>Majority Element II</td>
     <td>
